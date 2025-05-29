@@ -1,14 +1,22 @@
-QR Code Generator
+# QR Code Generator
+
 Simple QR code generator using JavaScript.
------------------------------------------
 
-Enter text or URL
-Click button
-Get QR code
+## Demo
 
-Tech :
-HTML, CSS, JavaScript
-QR Server API
+![QR Generator Interface](QRGenerator.png)
 
-Run it 
-Open index.html in browser.
+
+## How to Use
+
+1. Enter text or URL
+2. Click "Generate QR Code" button
+3. Your QR code will appear below
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- QR Server API
+
+## Installation
+
+Run it: Open index.html in browser.
